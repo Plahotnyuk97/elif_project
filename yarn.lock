@@ -1258,7 +1258,7 @@ etag@~1.8.1:
 
 event-stream@~3.3.0:
   version "3.3.4"
-  resolved "http://registry.npmjs.org/event-stream/-/event-stream-3.3.4.tgz#4ab4c9a0f5a54db9338b4c34d86bfce8f4b35571"
+  resolved "https://registry.npmjs.org/event-stream/-/event-stream-3.3.4.tgz#4ab4c9a0f5a54db9338b4c34d86bfce8f4b35571"
   dependencies:
     duplexer "~0.1.1"
     from "~0"
@@ -1298,14 +1298,7 @@ expand-tilde@^2.0.0, expand-tilde@^2.0.2:
   dependencies:
     homedir-polyfill "^1.0.1"
 
-express-dev-autoreload@^1.0.3:
-  version "1.0.3"
-  resolved "https://registry.yarnpkg.com/express-dev-autoreload/-/express-dev-autoreload-1.0.3.tgz#7ec40ec61f9fd1acfef45ddf8d24f4b72b905fbd"
-  dependencies:
-    express-modify-response "^1.0.1"
-    node-watch "^0.4.1"
-
-express-modify-response@^1.0.1, express-modify-response@^1.0.2:
+express-modify-response@^1.0.2:
   version "1.0.2"
   resolved "https://registry.yarnpkg.com/express-modify-response/-/express-modify-response-1.0.2.tgz#b20de0e92fffa87531fe670e9c7df8137f57524c"
 
@@ -3102,10 +3095,6 @@ node-sass@^4.8.3:
     stdout-stream "^1.4.0"
     "true-case-path" "^1.0.2"
 
-node-watch@^0.4.1:
-  version "0.4.1"
-  resolved "https://registry.yarnpkg.com/node-watch/-/node-watch-0.4.1.tgz#d0947d54a995f91135db4056b68722c6d7c322ad"
-
 node-watch@^0.5.8:
   version "0.5.8"
   resolved "https://registry.yarnpkg.com/node-watch/-/node-watch-0.5.8.tgz#208d10f93afe2f24b3701c254f54c7552f90c905"
@@ -3786,8 +3775,8 @@ qs@6.5.2:
   resolved "https://registry.yarnpkg.com/qs/-/qs-6.5.2.tgz#cb3ae806e8740444584ef154ce8ee98d403f3e36"
 
 qs@~6.3.0:
-  version "6.3.2"
-  resolved "https://registry.yarnpkg.com/qs/-/qs-6.3.2.tgz#e75bd5f6e268122a2a0e0bda630b2550c166502c"
+  version "6.3.3"
+  resolved "https://registry.yarnpkg.com/qs/-/qs-6.3.3.tgz#645c23bd6def4d552f258f0aadfeea6fd57f5a86"
 
 qs@~6.4.0:
   version "6.4.0"
